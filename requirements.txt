@@ -1,10 +1,7 @@
 streamlit
-yfinance
-plotly
 pandas
 numpy
-scikit-learn
+plotly
+yfinance
 pdfplumber
-pdfminer.six
-seaborn
-matplotlib
+scikit-learn
