@@ -193,7 +193,7 @@ if app_mode == "Subscription Tracker & Predictor":
         if "feature_df" in st.session_state:
             feature_df = st.session_state["feature_df"]
             
-            st.markdown("## 🧪 Train/Test Split")
+            st.markdown("##  Train/Test Split")
             if st.button("✂️ Split Data"):
                 from sklearn.model_selection import train_test_split
                 import plotly.express as px
@@ -223,7 +223,7 @@ if app_mode == "Subscription Tracker & Predictor":
 
         # === 🔮 Step 3: Forecast Next Month's Subscription Spending ===
         if "feature_df" in st.session_state:
-            st.markdown("## 🔮 Forecast Next Month's Subscription Spending")
+            st.markdown("##  Forecast Next Month's Subscription Spending")
 
             if st.button("📈 Train Forecast Model"):
                 from sklearn.linear_model import LinearRegression
