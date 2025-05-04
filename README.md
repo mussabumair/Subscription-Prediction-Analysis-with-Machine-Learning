@@ -1,4 +1,9 @@
 # Subscription-Prediction-Analysis-with-Machine-Learning
+🧑‍🏫 Course Information
+
+- **Course:** Programming For Finance  
+- **Instructor:** [Dr. [Usama Arshad]]  
+- **Student:** Mussab
 # 💰 Subscription Spending & Stock Prediction App
 
 A Streamlit web app with two interactive financial tools:
