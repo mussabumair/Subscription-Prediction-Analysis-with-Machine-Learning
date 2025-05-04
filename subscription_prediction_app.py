@@ -4,8 +4,6 @@ import re
 import yfinance as yf
 import streamlit as st
 import base64
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
