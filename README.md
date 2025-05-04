@@ -28,3 +28,4 @@ FILE STRUCTURE
 └── README.md            # Project documentation
 
 🌐 Try It Online
+https://subscription-prediction-analysis.streamlit.app/
